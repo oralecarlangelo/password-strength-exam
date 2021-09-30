@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## To run the project
+
+1. You need to have nodejs installed on your computer.
+2. Either you run npm install or yarn
+3. if NPM run script "npm start" and for YARN "yarn start"
+
 ## Available Scripts
 
 In the project directory, you can run:

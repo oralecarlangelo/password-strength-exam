@@ -1,9 +1,9 @@
-import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit";
+import passwordReducer from "../features/password/passwordSlice";
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    password: passwordReducer,
   },
 });
 
